@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Neo 👋
 
-<!--
-**PlayerNeo42/PlayerNeo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm a software engineer who chose both pills. The **Go** pill for building fast, concurrent backends, and the **TypeScript** pill for crafting robust, type-safe frontends.
 
-Here are some ideas to get you started:
+## 🔧 What I Build With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Backend         | Frontend            | DevOps & Others      |
+| --------------- | ------------------- | -------------------- |
+| Go              | TypeScript          | Docker               |
+| gRPC            | React               | Kubernetes           |
+| MySQL           | TanStack Router     | Git & GitHub Actions |
+| Redis / RabbitMQ| Tailwind CSS        | Grafana / Prometheus |
+
+> BTW I use NeoVim.
