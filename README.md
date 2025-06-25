@@ -11,4 +11,4 @@
 | MySQL           | TanStack Router     | Git & GitHub Actions |
 | Redis / RabbitMQ| Tailwind CSS        | Grafana / Prometheus |
 
-> BTW I use NeoVim.
+BTW I use NeoVim.
